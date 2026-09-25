@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a final-year Computer Science student
+- 🎓 Completed My Bachelor of Engineering (BE) in Computer Engineering
 - 💻 Passionate about transforming raw data into actionable insights
 - 🧠 Learning advanced Python libraries, Deep Learning, Generative AI, Web App development
 - 📫 Reach me at **omghag03@gmail.com**
