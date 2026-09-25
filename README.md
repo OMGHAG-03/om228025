@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Ghag</h1>
-<h3 align="center">A Data Analytics | Final Year CS Student</h3>
+<h3 align="center">A Java Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Python+%2F+Pandas+SQL+%2F+Bootstrap;MS%20Office+%2F+NumPy;transforming%20raw%20data%20into;actionable%20insights%20and;database%20management%20by%20SQL" />
@@ -21,13 +21,9 @@
 ### 🛠️ Tech Stack
 
 **Programming:**  
-`Python` · `Javascript` · `Streamlit` · `Flask` · `Next.js` · `React.js`   
-**Data Manipulation:**  
-`Pandas ` · `NumPy`  
-**Visualization:**  
-`Power BI` · `Matplotlib` · `Seaborn`  
+`Java` · `SpringBoot` · `Javascript` · `React.js`       
 **Databases:**  
-`PostgreSQL` · `Git` · `GitHub` · `NoSQL`
+`PostgreSQL` · `Git` · `GitHub` ·
 
 ---
 
@@ -49,8 +45,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddharth-Keer&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-Keer&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OMGHAG-03&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMGHAG-03&layout=compact&theme=tokyonight" />
 </p>
 
 ---
